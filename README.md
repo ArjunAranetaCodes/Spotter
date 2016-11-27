@@ -5,4 +5,6 @@ Spotter is an app for tracking your savings and your goals through graphs.
 
 <h3>Developers:</h3>
 Arjun Araneta <br/>
-John Rey Gonzales
+John Rey Gonzales <br/>
+Enrik Sabalvaro <br/>
+Erik Perez
